@@ -43,15 +43,6 @@ The dashboard uses a simulated dataset containing:
 - **Data Sources**: Dummy data generated to simulate business performance.
 - **Mapping Tools**: Integrated with Microsoft Maps for geographical insights.
 
----
-
-## Usage
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<your-username>/cookie-company-dashboard.git
-   ```
-2. Open the Power BI file (`CookieCompanyDashboard.pbix`) in Power BI Desktop.
-3. Explore the interactive visuals to analyze performance metrics.
 
 ---
 
