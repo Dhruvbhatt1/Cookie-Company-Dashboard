@@ -26,6 +26,7 @@ This repository contains a Power BI dashboard designed to analyze and visualize 
 3. **Profit by Product**: Bar chart displaying product-wise profit contributions.
 4. **Country Population and Units Sold**: Tabular summary providing aggregated statistics.
 
+![Dashboard Screenshot](Screenshot%202025-01-18%20142456.png)
 ---
 
 ## Dataset
